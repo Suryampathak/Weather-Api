@@ -20,12 +20,12 @@ This is a dynamic weather website built using HTML, CSS, and JavaScript. The web
 3. Enter a city name in the search box and press enter or click the search button to fetch the current weather data for that location.
 
 ## Technologies Used
-*HTML:* Structure of the website.<br>
-*CSS:* Styling for the website layout and design.<br>
-*JavaScript:* Fetches data from the weather API and handles user interactions.<br>
-*Weather API:* Provides real-time weather data (e.g., OpenWeatherMap, WeatherAPI).
+**HTML:** Structure of the website.<br>
+**CSS:** Styling for the website layout and design.<br>
+**JavaScript:** Fetches data from the weather API and handles user interactions.<br>
+**Weather API:** Provides real-time weather data (e.g., OpenWeatherMap, WeatherAPI).
 
-##Setup Instructions
+## Setup Instructions
 1. Get an API Key:
  * Sign up for a free API key from a weather data provider (e.g., OpenWeatherMap, WeatherAPI).
 
