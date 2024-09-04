@@ -44,9 +44,9 @@ This is a dynamic weather website built using HTML, CSS, and JavaScript. The web
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 1. Fork the project.
-2. Create your feature branch (git checkout -b feature/YourFeature).
-3. Commit your changes (git commit -m 'Add some feature').
-4. Push to the branch (git push origin feature/YourFeature).
+2. Create your feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
 ## Acknowledgments
